@@ -70,3 +70,7 @@ Overall, Fiara AG demonstrates **solid performance in Central and Southern Europ
 
 Here is an image
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+2.Test
+![Test](https://github.com/DucTung269/My-Portfolio/blob/3a6b50d0acbc976355d2043c2790b760020ac501/Images/Screenshot%202025-09-15%20191003.jpg)
