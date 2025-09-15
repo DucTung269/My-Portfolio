@@ -45,5 +45,7 @@ This dashboard focuses on product performance by comparing order values, variabl
 
 This dashboard provides insights into Fiara AG’s performance across **10 customer countries**.   **France** leads with the highest order value (€288M) and cars sold (6,074), followed by **Italy** and the **USA**. At the lower end, the **Czech Republic** records the weakest performance with €49M in orders and only 1,238 cars sold.  
 
-
+---
+ 
+### Conclusion
 
