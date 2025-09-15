@@ -23,4 +23,4 @@ The processed data was presented in the form of an **interactive dashboard** usi
  
 ### Results describing
 
-![alt text](KPMG Summery 1.png)
+![alt text](Images/KPMG Summery 1.png)
