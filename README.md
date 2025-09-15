@@ -1,5 +1,4 @@
 # My-Portfolio
-This Repo contains my analysis portfolio
 
 ## [Project 1: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (01.04.2025 - 10.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
 
