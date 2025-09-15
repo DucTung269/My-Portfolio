@@ -65,3 +65,17 @@ This dashboard focuses on product performance by comparing order values, variabl
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/79c7db56c473e03548fcb0ee33629357d3089563/Images/KPMG%20Markt%C3%BCbersicht%205.png)
 
+# Dashboard Insights: Market Overview
+
+This dashboard provides insights into Fiara AG’s performance across **10 customer countries**.  
+
+- **France** leads with the highest order value (€288M) and cars sold (6,074), followed by **Italy** and the **USA**.  
+- At the lower end, the **Czech Republic** records the weakest performance with €49M in orders and only 1,238 cars sold.  
+
+The breakdown of sold cars by **country and vehicle type** highlights:  
+- Strong demand for **station wagons in France**  
+- High sales of **vans/minivans in Poland and Spain**  
+- Smaller but targeted contributions from **cabrios and compact cars** in selected markets  
+
+This view emphasizes how market performance varies by geography and product focus.  
+
