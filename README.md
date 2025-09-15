@@ -26,6 +26,49 @@ The processed data was presented in the form of an **interactive dashboard** usi
 ### Results describing
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/5814e5d45b1d2741613d10e63bb8b7e83d0b0d9c/Images/KPMG%20Summery%201.png)
+# Dashboard Analysis: Fiara AG – Business Year 2022
+
+This dashboard provides an overview of Fiara AG’s business performance in 2022.  
+It summarizes customer value, order volume, geographical distribution, and contribution margin trends in a clear and visual format.  
+
+---
+
+## Key Insights
+
+### 1. Top 10 Customers by Order Value
+- Displays the **top 10 customers ranked by total order value (in €)**.  
+- Highest contributor: **Zoe Ross** (€16.1M).  
+- Other major customers: Serhan Harris, William Walker, Michael Mitchell.  
+- Lowest among the top 10: **SpeedFast** (€13.17M).  
+
+---
+
+### 2. Business KPIs
+- **Total Number of Orders:** 1,497  
+- **Total Order Value:** €1,909,622,799  
+
+---
+
+### 3. Geographic Distribution
+- World map visualization of order locations.  
+- **Strongest concentration in Europe**, with additional activity in North America and Asia.  
+
+---
+
+### 4. Contribution Margin Trend (Time Series)
+- Line chart shows contribution margin throughout **2022**.  
+- Peaks observed in **March, July, and November** (up to €15M).  
+- Data indicates **seasonal fluctuations and project-driven cycles**.  
+
+---
+
+## Summary
+The dashboard highlights:  
+- **Customer concentration**, with a few clients driving significant order value.  
+- **Global reach**, though heavily Europe-focused.  
+- **Volatile contribution margins**, suggesting dependency on seasonal demand or large-scale contracts.  
+
+This visualization offers a comprehensive and interactive overview of Fiara AG’s business results for 2022, enabling management to identify top customers, monitor sales trends, and track profitability across markets.
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/0cb049937d3da40f89152d67cfb19bc9dda3a5b2/Images/KPMG%20Auftragswert%C3%BCbersicht%202.png)
 
