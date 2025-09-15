@@ -61,5 +61,29 @@ On the right, the **top 10 customers by order value** are listed, with **Zoe Ros
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Produkt%C3%BCbersicht%204.png)
 
+# Dashboard Insights: Product Overview
+
+This dashboard highlights the performance of different **product types** in terms of order value, variable costs, and contribution margin.  
+
+- **Total Order Value:** €1.91B  
+- **Variable Costs:** €1.51B  
+- **Contribution Margin 1:** €452M  
+
+## Order Value by Product Type
+- Highest values in **Commercial Vehicles (€401.6M)** and **Station Wagons (€389.8M)**.  
+- Lower values in **Compact Cars (€164.7M)** and **Mini Cars (€199.6M)**.  
+
+## Variable Costs by Product Type
+- Highest costs in **Commercial Vehicles (€318M)** and **Station Wagons (€309M)**.  
+- Lowest costs in **Compact Cars (€131M)**.  
+
+## Contribution Margin by Product Type
+- Strongest contribution from **Station Wagons (€92.6M)** and **Commercial Vehicles (€92.5M)**.  
+- Lowest margin in **Compact Cars (€38.4M)**.  
+
+## Summary
+The dashboard provides a clear view of **profitability per product type**. While **Commercial Vehicles and Station Wagons** dominate both in sales and margin, **Compact Cars and Mini Cars** generate lower profitability, pointing to potential areas for optimization.  
+
+
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/79c7db56c473e03548fcb0ee33629357d3089563/Images/KPMG%20Markt%C3%BCbersicht%205.png)
 
