@@ -19,4 +19,8 @@ The processed data was presented in the form of an **interactive dashboard** usi
 - **Tasks Performed:**  
   - Cleaning and transforming data using Excel and Power Query  
   - Creating dashboards in SAC for visualization and reporting  
-  - Pitching results and consulting recommendations to stakeholders  
+  - Pitching results and consulting recommendations to stakeholders
+ 
+### Results describing
+
+![alt text](KPMG Summery 1.png)
