@@ -30,11 +30,7 @@ This dashboard summarizes Fiara AG’s business results for 2022.  It highlights
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/0cb049937d3da40f89152d67cfb19bc9dda3a5b2/Images/KPMG%20Auftragswert%C3%BCbersicht%202.png)
 
-This dashboard adds further detail by showing the **number of cars sold (45,319)** and highlighting financial aspects such as **delivery conditions (€26.7M)** and **price conditions (€30.6M)**.  
-
-It also provides a **month-by-month breakdown of order values**, with the strongest performance in **October (€219M)** and the weakest in **December (€92M)**.  
-
-Additionally, a detailed **order list with customer IDs, names, and tax information** offers transparency at the transaction level.  
+This dashboard adds further detail by showing the **number of cars sold (45,319)** and highlighting financial aspects such as **delivery conditions (€26.7M)** and **price conditions (€30.6M)**.  It also provides a **month-by-month breakdown of order values**, with the strongest performance in **October (€219M)** and the weakest in **December (€92M)**.  Additionally, a detailed **order list with customer IDs, names, and tax information** offers transparency at the transaction level.  
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Kunden%C3%BCbersicht%203%20.png)
 
