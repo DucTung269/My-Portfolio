@@ -33,4 +33,5 @@ The processed data was presented in the form of an **interactive dashboard** usi
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Produkt%C3%BCbersicht%204.png)
 
-![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Markt%C3%BCbersicht%205.png)
+![alt text](https://github.com/DucTung269/My-Portfolio/blob/08745465f5678673ae673fbfd6b21011f30c2cb1/Images/KPMG%20Markt%C3%BCbersicht%205.png)
+
