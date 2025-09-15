@@ -1,12 +1,23 @@
 # My-Portfolio
 This Repo contains my analysis portfolio
 
-# [Project 1: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (01.04.2025 - 10.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
+## [Project 1: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (01.04.2025 - 10.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
 
-This is a Casestudy I did from 1 of my master Modul, when I had a chance to work a real project with KPMG. This Casestudy is about data processing, present and visualize E-Car sales data according to specific customer requirements. In the end, me and my group had a pitch about the results, and giving the consultant solution for E-Car sales. The processed data will be present in form of Dashboard by using SAC (SAP Cloud Analytics).
+### Case Study: E-Car Sales Data Processing and Visualization
 
-* Data was provided from KPMG, which contains E-Auto sales information.
-* Tools used: Excel, Excel Power Query, SAC (SAP Cloud Analytics), Dashboard
-* Cleaning Data using Excel and Excel Power Query
-* Creating Dashboards on SAC (SAP Cloud Analytics)
-* Pitch about the result.
+This case study was completed as part of one of my master’s modules, where I had the opportunity to work on a real project in collaboration with **KPMG**.  
+The focus of the project was on **data processing, presentation, and visualization** of E-Car sales data according to specific customer requirements.  
+
+Together with my group, we prepared a final **pitch** to present the results and deliver **consulting solutions** for E-Car sales.  
+The processed data was presented in the form of an **interactive dashboard** using **SAP Analytics Cloud (SAC)**.  
+
+---
+
+### Project Details
+
+- **Data Source:** Provided by KPMG, containing E-Car sales information  
+- **Tools Used:** Microsoft Excel, Excel Power Query, SAP Analytics Cloud (SAC)  
+- **Tasks Performed:**  
+  - Cleaning and transforming data using Excel and Power Query  
+  - Creating dashboards in SAC for visualization and reporting  
+  - Pitching results and consulting recommendations to stakeholders  
