@@ -1,6 +1,6 @@
 # My-Portfolio
 
-## [Project 1: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (01.04.2025 - 10.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
+## [Project 1: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (02.06.2025 - 14.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
 
 ### Case Study: E-Car Sales Data Processing and Visualization
 
