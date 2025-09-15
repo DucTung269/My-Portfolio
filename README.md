@@ -49,3 +49,16 @@ This dashboard provides insights into Fiara AG’s performance across **10 custo
  
 ### Conclusion
 
+# Conclusion
+
+The analysis highlights Fiara AG’s strong focus on **10 core markets**, with **Europe** as the primary sales region.  
+**October** proved to be the most successful month of the year, supported by high sales volumes of **station wagons and commercial vehicles**, which dominate the product portfolio.  
+In total, more than **45,000 vehicles** were sold, generating an **order value of over €1.9 billion** from nearly **1,500 completed contracts**.  
+
+From a market perspective:  
+- **France** represents the strongest sales country for station wagons.  
+- **Italy** leads in commercial vehicles.  
+- **Czech Republic** shows significant market weakness, making expansion urgently necessary.  
+- In **China**, brand presence must be strengthened, with clear demand for **cabrios and minivans**.  
+
+Overall, Fiara AG demonstrates **solid performance in Central and Southern Europe**, but further strategic efforts are required to improve competitiveness in **Eastern Europe** and fully leverage opportunities in **Asia**.  
