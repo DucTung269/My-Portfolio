@@ -69,4 +69,4 @@ From a market perspective:
 Overall, Fiara AG demonstrates **solid performance in Central and Southern Europe**, but further strategic efforts are required to improve competitiveness in **Eastern Europe** and fully leverage opportunities in **Asia**.  
 
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
