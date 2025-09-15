@@ -45,12 +45,7 @@ Additionally, a detailed **order list with customer IDs, names, and tax informat
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Kunden%C3%BCbersicht%203%20.png)
 
 This dashboard provides a **customer-centric view** of Fiara AG’s business in 2022.  It shows a total of **999 active customers** contributing to an overall order value of **€1.9 billion**.  
-
-The analysis includes:  
-- **Customer segmentation** by country  
-- **Customer type** (e.g., B2B)  
-- **System landscape** (Microsoft, SAP)  
-
+The analysis includes:   **Customer segmentation** by country, **Customer type** (e.g., B2B),  **System landscape** (Microsoft, SAP).
 A **geographic map** highlights strong activity across European markets.  Additionally, detailed **customer transactions** are displayed, covering **product types and system affiliations**.  On the right, the **top 10 customers by order value** are listed, with **Zoe Ross** remaining the leading client.  
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Produkt%C3%BCbersicht%204.png)
