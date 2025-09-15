@@ -25,7 +25,7 @@ The processed data was presented in the form of an **interactive dashboard** usi
  
 ### Results Overview
 
-[Summery Dashboard](https://github.com/DucTung269/My-Portfolio/blob/5814e5d45b1d2741613d10e63bb8b7e83d0b0d9c/Images/KPMG%20Summery%201.png)
+![Summery Dashboard](https://github.com/DucTung269/My-Portfolio/blob/5814e5d45b1d2741613d10e63bb8b7e83d0b0d9c/Images/KPMG%20Summery%201.png)
 
 This dashboard summarizes Fiara AG’s business results for 2022.  It highlights the **top 10 customers by order value**, with Zoe Ross as the largest contributor.  In total, the company recorded **1,497 orders** with a combined value of **€1.9 billion**.  The **geographic distribution** shows a strong concentration in **Europe**, with additional activity in North America and Asia.  A **time series analysis** of the contribution margin indicates significant fluctuations, with peaks in **March, July, and November**, reflecting seasonal or project-driven performance trends.  
 
