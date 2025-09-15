@@ -34,13 +34,11 @@ This dashboard adds further detail by showing the **number of cars sold (45,319)
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Kunden%C3%BCbersicht%203%20.png)
 
-This dashboard provides a **customer-centric view** of Fiara AG’s business in 2022.  It shows a total of **999 active customers** contributing to an overall order value of **€1.9 billion**.  
-The analysis includes:   **Customer segmentation** by country, **Customer type** (e.g., B2B),  **System landscape** (Microsoft, SAP).
-A **geographic map** highlights strong activity across European markets.  Additionally, detailed **customer transactions** are displayed, covering **product types and system affiliations**.  On the right, the **top 10 customers by order value** are listed, with **Zoe Ross** remaining the leading client.  
+This dashboard provides a **customer-centric view** of Fiara AG’s business in 2022.  It shows a total of **999 active customers** contributing to an overall order value of **€1.9 billion**.  The analysis includes:   **Customer segmentation** by country, **Customer type** (e.g., B2B),  **System landscape** (Microsoft, SAP).A **geographic map** highlights strong activity across European markets.  Additionally, detailed **customer transactions** are displayed, covering **product types and system affiliations**.  On the right, the **top 10 customers by order value** are listed, with **Zoe Ross** remaining the leading client.  
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/abe85effbbd04bb7abf6e7281ee0cc2ca7e5d9fa/Images/KPMG%20Produkt%C3%BCbersicht%204.png)
 
-This dashboard focuses on product performance by comparing order values, variable costs, and contribution margins across different vehicle categories. Commercial vehicles and station wagons stand out with the highest sales and profitability, while compact and mini cars contribute significantly less in both revenue and margins. Overall, the view highlights which product types drive the strongest financial results and where profitability improvements may be needed.
+This dashboard focuses on product performance by comparing order values, variable costs, and contribution margins across different vehicle categories. Commercial vehicles and station wagons stand out with the highest sales and profitability, while compact and mini cars contribute significantly less in both revenue and margins. 
 
 ![alt text](https://github.com/DucTung269/My-Portfolio/blob/79c7db56c473e03548fcb0ee33629357d3089563/Images/KPMG%20Markt%C3%BCbersicht%205.png)
 
@@ -50,5 +48,5 @@ The breakdown of sold cars by **country and vehicle type** highlights:
 - Strong demand for **station wagons in France**  
 - High sales of **vans/minivans in Poland and Spain**  
 - Smaller but targeted contributions from **cabrios and compact cars** in selected markets  
-This view emphasizes how market performance varies by geography and product focus.  
+
 
