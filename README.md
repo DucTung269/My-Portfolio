@@ -68,3 +68,57 @@ From a market perspective:
 
 Overall, Fiara AG demonstrates **solid performance in Central and Southern Europe**, but further strategic efforts are required to improve competitiveness in **Eastern Europe** and fully leverage opportunities in **Asia**.  
 
+
+---
+
+## [Projekt 2: Roessler Atraktor (25.05.2022 – 23.06.2022)](https://github.com/DucTung269/Roessler-Atraktor)
+
+Im Rahmen eines Bachelor-Moduls entwickelte ich ein mathematisches Modell in **Python**, das den **Rössler-Attraktor** beschreibt. 
+
+Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dynamisches System** dar, das durch das sogenannte Rössler-System definiert ist. Dieses **nichtlineare System** basiert auf drei gekoppelten Differentialgleichungen, die die zeitabhängige Entwicklung der Variablen *(x, y, z)* modellieren. Charakteristisch für den Attraktor ist sein chaotisches Verhalten: Bereits minimale Änderungen in den Anfangsbedingungen oder Parametern führen zu signifikanten und nicht vorhersagbaren Abweichungen im Systemverlauf. In der **Chaosforschung** dient die Simulation des Rössler-Attraktors häufig als Untersuchungsgrundlage für nichtlineare Dynamik und deterministisches Chaos. Für die numerische Integration der Differentialgleichungen und die Visualisierung der Ergebnisse nutzte ich **Python** als Programmiersprache.
+
+---
+### Projektdetails
+- **Modell**: Mathematisches Modell des Rössler-Attraktors  
+- **Numerische Verfahren**: Runge-Kutta-Methoden (4. und 8. Ordnung)  
+- **Verwendete Tools und Bibliotheken**: Implementierung in **Python**  
+  - *NumPy*  
+  - *SciPy.integrate*  
+  - *Matplotlib.pyplot*  
+  - *mpl_toolkits.mplot3d*  
+  - *Matplotlib.animation*  
+
+---
+
+### Ergebnisseübersicht  
+
+- **Code**: Der Python-Code zur Implementierung des Rössler-Attraktors, einschließlich der numerischen Lösung mit dem Runge-Kutta-Verfahren sowie der Animation, befindet sich im Jupyter Notebook *Roessler Atraktor.ipynb* in [meinem Repository](https://github.com/DucTung269/Roessler-Atraktor).  
+
+- **Animation**: Die Dynamik des Rössler-Attraktors wird in der folgenden Abbildung als Animation dargestellt.  
+![Rössler Attraktor Animation](roessler_attraktor.gif)
+
+### Variation des Rössler-Attraktors  
+
+- **Startwerte**: (1.0, 1.0, 1.0) mit Variation des Parameters *c* zwischen 2 und 7:  
+
+  - Für *c = 2*  
+    ![c = 2](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%202.jpg?raw=true)  
+
+  - Für *c = 7*  
+    ![c = 7](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%207.jpg?raw=true)  
+
+---
+
+- **Startwerte**: (1.01, 1.0, 1.0) mit Variation des Parameters *c*:  
+
+  - Für *c = 3.3*  
+    ![c = 3.3](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%203.3.jpg?raw=true)  
+
+  - Für *c = 6.6*  
+    ![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.3.jpg?raw=true)
+
+### Fazit  
+
+Der **Rössler-Attraktor** ist ein typischer *seltsamer Attraktor* mit starker Abhängigkeit von den Anfangsbedingungen. Für seine numerische Lösung wurden das **Runge-Kutta-Verfahren 4. Ordnung** und das **Runge-Kutta-Verfahren 8. Ordnung** eingesetzt, wobei auch andere Verfahren wie das **Euler-Verfahren** möglich wären. Die Simulationen zeigen, dass bereits kleine Änderungen der Anfangswerte oder Parameter zu deutlichen Abweichungen im Verhalten der Trajektorien führen. Besonders stabil tritt die charakteristische **Rössler-Form** bei den Parametern *(a = 0.2, b = 0.2, c = 5.7)* auf, während Abweichungen davon eine andere Dynamik erzeugen.  
+
+---
