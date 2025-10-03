@@ -1,6 +1,6 @@
 # My-Portfolio
 
-## [Project 1: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (02.06.2025 - 14.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
+## [Project: From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (02.06.2025 - 14.07.2025)](https://github.com/DucTung269/KPMG-Casestudy)
 
 ### Case Study: E-Car Sales Data Processing and Visualization
 
@@ -71,7 +71,7 @@ Overall, Fiara AG demonstrates **solid performance in Central and Southern Europ
 
 ---
 
-## [Projekt 2: Roessler Atraktor (25.05.2022 – 23.06.2022)](https://github.com/DucTung269/Roessler-Atraktor)
+## [Projekt: Roessler Atraktor (25.05.2022 – 23.06.2022)](https://github.com/DucTung269/Roessler-Atraktor)
 
 Im Rahmen eines Bachelor-Moduls entwickelte ich ein mathematisches Modell in **Python**, das den **Rössler-Attraktor** beschreibt. 
 
