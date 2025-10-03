@@ -97,7 +97,7 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
 - **Animation**: Die Dynamik des Rössler-Attraktors wird in der folgenden Abbildung als Animation dargestellt.  
 ![Rössler Attraktor Animation](https://github.com/DucTung269/Roessler-Atraktor/blob/main/roessler_attraktor.gif?raw=true)
 
-### Variation des Rössler-Attraktors  
+#### Variation des Rössler-Attraktors  
 
 - **Startwerte**: (1.0, 1.0, 1.0) mit Variation des Parameters *c* zwischen 2 und 7:  
 
