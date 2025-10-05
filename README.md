@@ -14,9 +14,13 @@ The processed data was presented in the form of an **interactive dashboard** usi
 
 ### Project Details
 
-- **Data Source:** Provided by KPMG, containing E-Car sales information  
-- **Tools Used:** Microsoft Excel, Excel Power Query, SAP Analytics Cloud (SAC)  
-- **Tasks Performed:**  
+- **[Data Source](https://github.com/DucTung269/KPMG-Casestudy/tree/main/Raw%20Dataset)**: Provided by KPMG, containing E-Car sales information  
+- **Tools Used**:
+  - Microsoft Excel
+  - Excel Power Query
+  -  SAP Analytics Cloud (SAC)
+  -  SAP Functions  
+- **Tasks Performed**:  
   - Cleaning and transforming data using Excel and Power Query  
   - Creating dashboards in SAC for visualization and reporting  
   - Pitching results and consulting recommendations to stakeholders
