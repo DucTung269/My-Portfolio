@@ -90,7 +90,7 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
   - *SciPy.integrate*  
   - *Matplotlib.pyplot*  
   - *mpl_toolkits.mplot3d*  
-  - *Matplotlib.animation*  
+  - *Matplotlib.animation*
 
 ---
 
