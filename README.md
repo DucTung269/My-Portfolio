@@ -126,7 +126,7 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
 Der **Rössler-Attraktor** ist ein typischer *seltsamer Attraktor* mit starker Abhängigkeit von den Anfangsbedingungen. Für seine numerische Lösung wurden das **Runge-Kutta-Verfahren 4. Ordnung** und das **Runge-Kutta-Verfahren 8. Ordnung** eingesetzt, wobei auch andere Verfahren wie das **Euler-Verfahren** möglich wären. Die Simulationen zeigen, dass bereits kleine Änderungen der Anfangswerte oder Parameter zu deutlichen Abweichungen im Verhalten der Trajektorien führen. Besonders stabil tritt die charakteristische **Rössler-Form** bei den Parametern *(a = 0.2, b = 0.2, c = 5.7)* auf, während Abweichungen davon eine andere Dynamik erzeugen.  
 
 ---
-## Deep-Learning-Predicting-Creditworthiness
+## [Projekt:Deep-Learning-Predicting-Creditworthiness](https://github.com/DucTung269/Deep-Learning-Predicting-Creditworthiness)
 
 Im Rahmen meines Masterseminars wurde ein Projekt zur **Vorhersage der Kreditwürdigkeit** entwickelt. Ziel war es, mithilfe moderner Machine-Learning-Methoden wie **Künstlichen Neuronalen Netzen (Artificial Neural Networks, ANN)** und dem **XGBoost-Algorithmus** präzise Vorhersagen über die Bonität von Kreditnehmern zu treffen. Beide Modelle wurden in **Python** implementiert und auf reale Datensätze angewendet.  
 
