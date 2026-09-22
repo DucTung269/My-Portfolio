@@ -27,6 +27,17 @@ influencing day-ahead electricity prices.
 
 ---
 
+
+<img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="300"/>
+
+### [German Electricity Price Analysis](https://github.com/yourname/project1)
+
+
+<br clear="left"/>
+
+---
+
+
 <img src="https://github.com/DucTung269/Sales-Management/blob/main/Images/Sales__Overview.png?raw=true" align="left" width="300"/>
 
 ### [Sales Performance Dashboard](https://github.com/yourname/project2)
