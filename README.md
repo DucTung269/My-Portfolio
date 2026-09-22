@@ -34,9 +34,9 @@ influencing day-ahead electricity prices.
 Analysis of sales data to identify important business trends, product
 performance and regional differences.
 
-**Tools:** Power BI, Excel, Power Query, DAX
+**Tools:** Power BI, Excel, Power Query, DAX.
 
-**Goal:** Develop an interactive dashboard that supports business
+**Goal:** Develop an interactive dashboard that supports business.
 decision-making.
 
 <br clear="left"/>
