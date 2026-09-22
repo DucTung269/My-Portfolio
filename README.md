@@ -42,7 +42,10 @@ decision-making.
 <br clear="left"/>
 
 ---
+### [Predicting](https://github.com/yourname/project3
 
+<img src="https://github.com/DucTung269/Images/blob/main/images/Predicting%20Creditworthiness.png?raw=true" align="left" width="250"/>
+---
 <img src="images/project3.png" align="left" width="250"/>
 
 ### [Customer Data Analysis](https://github.com/yourname/project3)
