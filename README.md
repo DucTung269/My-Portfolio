@@ -46,14 +46,7 @@ decision-making.
 <img src="https://github.com/DucTung269/Images/blob/main/images/Predicting%20Creditworthiness.png?raw=true" align="left" width="250"/>
 
 ---
-<img src="images/project3.png" align="left" width="250"/>
 
-### [Customer Data Analysis](https://github.com/yourname/project3)
-
-Analysis of customer data to identify purchasing patterns, customer
-segments and potential opportunities.
-
-**Tools:** SQL, Python, Power BI
 
 **Goal:** Transform raw customer data into useful business insights.
 
