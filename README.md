@@ -63,7 +63,7 @@ decision-making.
 
 ---
 
-<img src="https://github.com/DucTung269/Deep-Learning-Predicting-Creditworthiness/blob/main/images/ExplainShap.png?raw=true" align="left" width="375"/>
+<img src="https://github.com/DucTung269/Images/blob/main/images/Predicting%20Creditworthiness.png?raw=true" align="left" width="375"/>
 
 ### [Creditworthiness Prediction with Machine Learning](https://github.com/DucTung269/Deep-Learning-Predicting-Creditworthiness)
 
