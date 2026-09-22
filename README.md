@@ -28,12 +28,21 @@ influencing day-ahead electricity prices.
 ---
 
 
-<img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="300"/>
+---
 
-### [German Electricity Price Analysis](https://github.com/yourname/project1)
+<img src="Images/KPMG-E-Car.png" align="left" width="375"/>
 
+### [KPMG E-Car Sales Case Study](https://github.com/DucTung269/KPMG-Casestudy)
+
+Analysis and visualization of E-Car sales data in collaboration with KPMG, focusing on sales performance, customers, products, and market trends.
+
+**Tools:** Microsoft Excel, Power Query, SAP Analytics Cloud (SAC)
+
+**Goal:** Transform raw E-Car sales data into interactive dashboards and data-driven business insights for stakeholder decision-making.
 
 <br clear="left"/>
+
+---
 
 ---
 
