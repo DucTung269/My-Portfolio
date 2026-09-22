@@ -12,7 +12,7 @@ my skills in data cleaning, visualization, dashboard development and data-driven
 
 ---
 
-<img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="300"/>
+<img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="310"/>
 
 ### [German Electricity Price Analysis](https://github.com/yourname/project1)
 
