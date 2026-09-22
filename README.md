@@ -62,14 +62,16 @@ decision-making.
 <br clear="left"/>
 
 ---
-### [Predicting](https://github.com/yourname/project3
-<img src="https://github.com/DucTung269/Images/blob/main/images/Predicting%20Creditworthiness.png?raw=true" align="left" width="300"/>
 
-<br clear="left"/>
----
+<img src="https://github.com/DucTung269/Deep-Learning-Predicting-Creditworthiness/blob/main/images/ExplainShap.png?raw=true" align="left" width="375"/>
 
+### [Creditworthiness Prediction with Machine Learning](https://github.com/DucTung269/Deep-Learning-Predicting-Creditworthiness)
 
-**Goal:** Transform raw customer data into useful business insights.
+Machine-learning analysis for predicting borrower creditworthiness using Artificial Neural Networks and XGBoost, with a focus on model performance and explainability.
+
+**Tools:** Python, Pandas, PyTorch, Scikit-learn, XGBoost, SHAP, ALE
+
+**Goal:** Predict creditworthiness and compare the performance and interpretability of ANN and XGBoost models using explainable AI techniques.
 
 <br clear="left"/>
 
