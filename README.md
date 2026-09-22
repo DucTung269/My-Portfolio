@@ -27,7 +27,7 @@ influencing day-ahead electricity prices.
 
 ---
 
-<img src="images/project2.png" align="left" width="250"/>
+<img src="https://github.com/DucTung269/Sales-Management/blob/main/Images/Sales__Overview.png?raw=true" align="left" width="250"/>
 
 ### [Sales Performance Dashboard](https://github.com/yourname/project2)
 
