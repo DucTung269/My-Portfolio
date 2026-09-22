@@ -2,9 +2,8 @@
 
 ---
 
-This portfolio contains selected Data Analysis projects that demonstrate
-my skills in data cleaning, visualization, dashboard development and
-data-driven problem solving.
+This portfolio contains selected Data Analysis and Data Science projects that i have done for academic and self-learning. This ademonstrate
+my skills in data cleaning, visualization, dashboard development and data-driven problem solving.
 
 - **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - **GitHub:** [github.com/yourname](https://github.com/yourname)
