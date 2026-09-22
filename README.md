@@ -30,7 +30,7 @@ influencing day-ahead electricity prices.
 
 ---
 
-<img src="Images/KPMG-E-Car.png" align="left" width="375"/>
+<img src="https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/E%20car%20KPMG.png?raw=true" align="left" width="375"/>
 
 ### [KPMG E-Car Sales Case Study](https://github.com/DucTung269/KPMG-Casestudy)
 
