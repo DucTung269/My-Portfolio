@@ -61,7 +61,25 @@ Machine-learning analysis for predicting borrower creditworthiness using Artific
 
 **Tools:** Python, Pandas, PyTorch, Scikit-learn, XGBoost, SHAP, ALE
 
+
 **Goal:** Predict creditworthiness and compare the performance and interpretability of ANN and XGBoost models using explainable AI techniques.
+
+<br clear="left"/>
+
+---
+
+
+---
+
+<img src="https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/bike%20demand%20by%20weather.png?raw=true" align="left" width="375"/>
+
+### [London Bike Sharing Analysis with Tableau](https://github.com/DucTung269/London-Bike-Rides-)
+
+Interactive analysis of London bike-sharing data to explore demand patterns across time, weather conditions, temperature, and wind speed.
+
+**Tools:** Python, Pandas, Excel, Tableau
+
+**Goal:** Prepare and transform bike-sharing data with Python and develop an interactive Tableau dashboard to identify commuting patterns, temporal trends, and environmental factors associated with bike demand.
 
 <br clear="left"/>
 
