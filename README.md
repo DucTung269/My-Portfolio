@@ -71,7 +71,7 @@ Machine-learning analysis for predicting borrower creditworthiness using Artific
 
 ---
 
-<img src="https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/bike%20demand%20by%20weather.png?raw=true" align="left" width="375"/>
+<img src="https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/london%20dashboard.png?raw=true" align="left" width="375"/>
 
 ### [London Bike Sharing Analysis with Tableau](https://github.com/DucTung269/London-Bike-Rides-)
 
