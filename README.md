@@ -27,7 +27,7 @@ Analysis of German electricity market data to predict day-ahead electricity pric
 
 <img src="https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/E%20car%20KPMG.png?raw=true" align="left" width="375"/>
 
-### [KPMG E-Car Sales Case Study](https://github.com/DucTung269/KPMG-Casestudy)
+### [KPMG E-Car Sales Case Study with SAP Analytics Cloud (SAC)](https://github.com/DucTung269/KPMG-Casestudy)
 
 Analysis and visualization of E-Car sales data in collaboration with KPMG, focusing on sales performance, customers, products, and market trends.
 
@@ -41,7 +41,7 @@ Analysis and visualization of E-Car sales data in collaboration with KPMG, focus
 
 <img src="https://github.com/DucTung269/Sales-Management/blob/main/Images/Sales__Overview.png?raw=true" align="left" width="375"/>
 
-### [Sales Performance Dashboard](https://github.com/DucTung269/Sales-Management)
+### [Sales Performance Dashboard with Power BI](https://github.com/DucTung269/Sales-Management)
 
 Analysis of sales data to identify important business trends, product performance, and regional differences.
 
