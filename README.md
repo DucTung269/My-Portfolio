@@ -1,18 +1,17 @@
-# Data Analysis and Data Science Portfolio - Duc Tung Bui
+# Data Analytics & Data Science Portfolio - Duc Tung Bui
 
 ---
 
-This portfolio contains selected Data Analysis and Data Science projects that i have done for academic and self-learning. This ademonstrate
-my skills in data cleaning, visualization, dashboard development and data-driven problem solving.
+This portfolio contains selected Data Analytics and Data Science projects completed as part of my academic studies and self-learning. These projects demonstrate my skills in data cleaning, data visualization, dashboard development, machine learning, explainable AI, causal inference, and data-driven problem solving.
 
 - **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **GitHub:** [github.com/yourname](https://github.com/yourname)
+- **GitHub:** [github.com/DucTung269](https://github.com/DucTung269)
 
 ## Projects
 
 ---
 
-<img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="310"/>
+<img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="375"/>
 
 ### [Renewable Energy & German Electricity Price Analysis with Machine Learning](https://github.com/DucTung269/Double-Machine-Learning-Analysis-of-Time-Series-in-German-Renewable-Energy-)
 
@@ -20,12 +19,9 @@ Analysis of German electricity market data to predict day-ahead electricity pric
 
 **Tools:** Python, Pandas, XGBoost, SHAP, Double Machine Learning
 
-**Goal:** Combine predictive modeling, explainable AI and causal inference to analyze how renewable generation relates to German electricity prices.
+**Goal:** Combine predictive modeling, explainable AI, and causal inference to analyze how renewable generation relates to German electricity prices.
 
 <br clear="left"/>
-
----
-
 
 ---
 
@@ -43,20 +39,15 @@ Analysis and visualization of E-Car sales data in collaboration with KPMG, focus
 
 ---
 
----
+<img src="https://github.com/DucTung269/Sales-Management/blob/main/Images/Sales__Overview.png?raw=true" align="left" width="375"/>
 
+### [Sales Performance Dashboard](https://github.com/DucTung269/Sales-Management)
 
-<img src="https://github.com/DucTung269/Sales-Management/blob/main/Images/Sales__Overview.png?raw=true" align="left" width="300"/>
+Analysis of sales data to identify important business trends, product performance, and regional differences.
 
-### [Sales Performance Dashboard](https://github.com/yourname/project2)
+**Tools:** Power BI, Excel, Power Query, DAX
 
-Analysis of sales data to identify important business trends, product
-performance and regional differences.
-
-**Tools:** Power BI, Excel, Power Query, DAX.
-
-**Goal:** Develop an interactive dashboard that supports business.
-decision-making.
+**Goal:** Develop an interactive dashboard that supports data-driven business decision-making.
 
 <br clear="left"/>
 
