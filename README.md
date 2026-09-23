@@ -14,14 +14,13 @@ my skills in data cleaning, visualization, dashboard development and data-driven
 
 <img src="https://github.com/DucTung269/Tung/blob/main/images/Electricity.png?raw=true" align="left" width="310"/>
 
-### [German Electricity Price Analysis](https://github.com/yourname/project1)
+### [Renewable Energy & German Electricity Price Analysis with Machine Learning](https://github.com/DucTung269/Double-Machine-Learning-Analysis-of-Time-Series-in-German-Renewable-Energy-)
 
-Analysis of German electricity market data to identify the main factors
-influencing day-ahead electricity prices.
+Analysis of German electricity market data to predict day-ahead electricity prices and investigate the effects of solar and wind generation.
 
-**Tools:** Python, Pandas, XGBoost, SHAP
+**Tools:** Python, Pandas, XGBoost, SHAP, Double Machine Learning
 
-**Goal:** Analyze electricity-price drivers and develop a predictive model.
+**Goal:** Combine predictive modeling, explainable AI and causal inference to analyze how renewable generation relates to German electricity prices.
 
 <br clear="left"/>
 
