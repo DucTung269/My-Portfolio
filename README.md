@@ -4,7 +4,7 @@
 
 This portfolio contains selected Data Analytics and Data Science projects completed as part of my academic studies and self-learning. These projects demonstrate my skills in data cleaning, data visualization, dashboard development, machine learning, explainable AI, causal inference, and data-driven problem solving.
 
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- **LinkedIn:** [linkedin.com/in/yourname](linkedin.com/in/duc-tung-bui-823623236)
 - **GitHub:** [github.com/DucTung269](https://github.com/DucTung269)
 
 ## Projects
