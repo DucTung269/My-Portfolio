@@ -7,7 +7,7 @@ This portfolio contains selected Data Analytics and Data Science projects comple
 - **LinkedIn:** [linkedin.com/in/duc-tung-bui-823623236](https://www.linkedin.com/in/duc-tung-bui-823623236)
 - **GitHub:** [github.com/DucTung269](https://github.com/DucTung269)
 - **Portfolio:** [My Portfolio](https://github.com/DucTung269/My-Portfolio)
-- 
+
 ## Projects
 
 ---
